@@ -5,7 +5,7 @@ criaCartao(
 )
 criaCartao(
     'Naruto',
-    'Qual é a traduçaão de rasengan?',
+    'Qual é a tradução de rasengan?',
     'Esfera Espiral'
 )
 criaCartao(
