@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
+    --text-color: #f6feff;
+    --card-front-color: #1f833f;
     --card-back-color: #00F4BF;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url(img/piezas-de-xadrez-abstratas-de-estilo-de-arte-digital_23-2151476069.avif);
     font-family: Bai Jamjuree;
 }
 
